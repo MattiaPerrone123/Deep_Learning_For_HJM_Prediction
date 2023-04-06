@@ -28,7 +28,7 @@ The image below describes the pipeline followed.
 <br>
 <br>
 
-The model architecture has a similar structure to one of other studies dealing with similar tasks -> [Similar_Studies](./References/Similar_Studies/).
+The model architecture has an analogous structure to one of other [Similar_Studies](./References/Similar_Studies/) dealing with similar tasks.
 
 
 Parlo del mio modello e metto link a paper con studi simili, da cui ho preso modello
