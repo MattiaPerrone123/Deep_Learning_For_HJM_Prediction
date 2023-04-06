@@ -33,3 +33,20 @@ The model architecture has an analogous structure to one of other [Similar_Studi
 10 fold cross-validation was performed.
 
 
+## Results Analysis
+
+The tables below summarise the results obtained in terms of the evaluation metrics considered (nRMSE, r and MAE)
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
+
+
+The graphs below compare the values of HJM predicted by the LSTM model with the ground truth data and show that no statistical significant difference is found by statistical parametric mapping between these two time series.
+
+METTERE GRAFICI
+
+
+
