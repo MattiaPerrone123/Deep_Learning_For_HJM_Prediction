@@ -28,8 +28,8 @@ The image below describes the pipeline followed.
 <br>
 <br>
 
-<!--The model architecture has a similar structure to one of other studies dealing with similar tasks ([similar_architectures])(./Dataset/).
--->
+The model architecture has a similar structure to one of other studies dealing with similar tasks ([similar_architectures])(./References/Similar_studies/).
+
 
 Parlo del mio modello e metto link a paper con studi simili, da cui ho preso modello
 
