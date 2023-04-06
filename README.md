@@ -73,7 +73,7 @@ The graphs below compare the values of HJM predicted by the LSTM model (red) wit
 An analysis aiming at quantifying the incidence of input data on the output (HJM) was carried out. Results were consistent with what found by [Rane et al 2019](./References/Rane et al 2019/), since the best performance are achieved when giving in input both kinematic (knee joint angles) and kinetic (ground reaction forces) data.
 
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/98240588/230431716-3a155c68-f32b-49ab-a664-6045a9d0d5bb.png" width="600" height="400">
+      <img src="https://user-images.githubusercontent.com/98240588/230431941-129e21de-3cbc-4a9a-809f-b439397f7b62.png" width="600" height="400">
     
 
 
