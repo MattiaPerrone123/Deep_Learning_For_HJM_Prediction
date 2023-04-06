@@ -28,7 +28,7 @@ The image below describes the pipeline followed.
 <br>
 <br>
 
-The model architecture has an analogous structure to one of other [similar studies](./References/similar_studies/) dealing with similar tasks.
+The model architecture has an analogous structure to one of other [Similar_Studies](./References/Similar_Studies/) dealing with similar tasks.
 
 10 fold cross-validation was performed.
 
