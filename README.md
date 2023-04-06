@@ -81,4 +81,5 @@ An analysis aiming at quantifying the incidence of input data on the output (HJM
 
 
 
+![ml_grf_kja](https://user-images.githubusercontent.com/98240588/230431941-129e21de-3cbc-4a9a-809f-b439397f7b62.png)
 
