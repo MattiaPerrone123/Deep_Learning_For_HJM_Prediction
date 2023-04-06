@@ -65,25 +65,10 @@ The table below summarises the results obtained in terms of the evaluation metri
 
 
 
-The graphs below compare the values of HJM predicted by the LSTM model with the ground truth data and show that no statistical significant difference is found by statistical parametric mapping between these two time series.
-
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 5px;">
+The graphs below compare the values of HJM predicted by the LSTM model (red) with the ground truth data (blue). 
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/98240588/230426186-c8edcaef-6e06-43ef-b98a-9dcd2d8a3fff.png" width="300" height="200" alt="Image 1">
-      <br>
-      Caption for Image 1
-    </p>
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <p align="center">
-      <img src="https://user-images.githubusercontent.com/98240588/230426344-256b3bab-03a4-45d1-babf-26fc142d4888.png" width="300" height="200" alt="Image 2">
-      <br>
-      Caption for Image 2
-    </p>
-  </div>
-</div>
-
+      <img src="https://user-images.githubusercontent.com/98240588/230426186-c8edcaef-6e06-43ef-b98a-9dcd2d8a3fff.png" width="600" height="300" alt="Image 1">
+      
 
 
 
