@@ -37,21 +37,42 @@ The model architecture has an analogous structure to one of other [Similar_Studi
 
 The table below summarises the results obtained in terms of the evaluation metrics considered (nRMSE, r and MAE)
 
-| nRMSE | r | MAE (Nm/kg) |
-| --------| -------- | -------- | -------- |
-Training set| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-Test set| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">nRMSE</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">r</span>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">MAE (Nm/kg)</span>&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Training&nbsp;&nbsp;&nbsp;set</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">13.45%</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.95</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.23</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Test set</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">14.93%</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.94</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.21</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
-13.45%
-0.95
-0.23
-
-14.93%
-0.94
-0.21
 
 
 The graphs below compare the values of HJM predicted by the LSTM model with the ground truth data and show that no statistical significant difference is found by statistical parametric mapping between these two time series.
