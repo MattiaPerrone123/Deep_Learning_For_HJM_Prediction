@@ -66,8 +66,9 @@ The table below summarises the results obtained in terms of the evaluation metri
 
 The graphs below compare the values of HJM predicted by the LSTM model (red) with the ground truth data (blue). 
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/98240588/230427571-88436c5c-15e4-4b21-b682-cf60047ab1f1.png" width="600" height="400" alt="Image 1">
+      <img src="https://user-images.githubusercontent.com/98240588/230429667-658ef036-4a2f-4ae8-a5e9-862bf3a8fae1.png" width="600" height="400" alt="Image 1">
       
+
 
 
 
