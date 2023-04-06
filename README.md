@@ -18,10 +18,9 @@ Stratified splitting was performed, keeping a ratio of 4:1 between the number of
 
 ## Model Implementation
 The image below describes the pipeline followed.
-![Pipeline](https://user-images.githubusercontent.com/98240588/230415706-bf5bee5d-1b2a-46e6-a98c-7b06b9526fb6.png)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98240588/230415706-bf5bee5d-1b2a-46e6-a98c-7b06b9526fb6.png">
+  <img src="https://user-images.githubusercontent.com/98240588/230415706-bf5bee5d-1b2a-46e6-a98c-7b06b9526fb6.png" width="400" height="300">
 </p>
 
 
