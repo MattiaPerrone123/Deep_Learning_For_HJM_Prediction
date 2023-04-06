@@ -20,7 +20,6 @@ Stratified splitting was performed, keeping a ratio of 4:1 between the number of
 The image below describes the pipeline followed.
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98240588/230415706-bf5bee5d-1b2a-46e6-a98c-7b06b9526fb6.png" width="700" height="580">
@@ -29,6 +28,8 @@ The image below describes the pipeline followed.
 <br>
 <br>
 
+<!--The model architecture has a similar structure to one of other studies dealing with similar tasks ([similar_architectures])(./Dataset/).
+-->
 
 Parlo del mio modello e metto link a paper con studi simili, da cui ho preso modello
 
