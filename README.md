@@ -16,11 +16,12 @@ However, some observations have been discarded because of bad sampling during da
 Stratified splitting was performed, keeping a ratio of 4:1 between the number of controls, preoperative and postoperative patients between the training and the test set. Also, the observations corresponding to each subject were either all included in the training set or in the test set, and never in both of them, to avoid bias.
 
 
-## Model Omplementation
+## Model Implementation
 The image below describes the pipeline followed.
+![Pipeline](https://user-images.githubusercontent.com/98240588/230415706-bf5bee5d-1b2a-46e6-a98c-7b06b9526fb6.png)
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1HKm3Az43H-d228nSZvc7O_K8K5mPO7Xv/view?usp=share_link">
+  <img src="https://user-images.githubusercontent.com/98240588/230415706-bf5bee5d-1b2a-46e6-a98c-7b06b9526fb6.png">
 </p>
 
 
