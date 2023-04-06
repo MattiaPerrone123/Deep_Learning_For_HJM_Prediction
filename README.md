@@ -9,7 +9,7 @@ Although this approach has been employed also by other studies, the current inve
 A list of the packages used for this project is included in the file Requirements.txt
 
 ## Dataset
-The dataset used for the study includes 53 subjects (24 healthy controls and 29 patients with FAIS, including also 16 post-operative patients). Demographics of these subjects are included in the folder dataset (link alla cartella).
+The dataset used for the study includes 53 subjects (24 healthy controls and 29 patients with FAIS, including also 16 post-operative patients). Demographics of these subjects are included in the folder [dataset](./dataset/).
 Since every subject performed three single leg squat trials with each leg, this leads to a total of 414 observations.
 However, several observations have been discarded because of bad sampling during data acquisition (see main.py), so the final number of samples id 334.
 
