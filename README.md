@@ -71,6 +71,11 @@ The graphs below compare the values of HJM predicted by the LSTM model (red) wit
 
 
 
+PROVA
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/98240588/230430115-1eef1ff7-49b7-426d-a5d8-b3257fb3fbf3.png" width="600" height="400" alt="Image 1">
+    
+
 
 
 
