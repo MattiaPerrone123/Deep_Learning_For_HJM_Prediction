@@ -38,9 +38,6 @@ The model architecture has an analogous structure to one of other [Similar_Studi
 The table below summarises the results obtained in terms of the evaluation metrics considered (nRMSE, r and MAE)
 
 
-
-
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -70,9 +67,27 @@ The table below summarises the results obtained in terms of the evaluation metri
 
 The graphs below compare the values of HJM predicted by the LSTM model with the ground truth data and show that no statistical significant difference is found by statistical parametric mapping between these two time series.
 
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 5px;">
+    <p align="center">!
+      <img src="https://user-images.githubusercontent.com/98240588/230426186-c8edcaef-6e06-43ef-b98a-9dcd2d8a3fff.png" alt="Image 1">
+      <br>
+      Caption for Image 1
+    </p>
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/98240588/230426344-256b3bab-03a4-45d1-babf-26fc142d4888.png" alt="Image 2">
+      <br>
+      Caption for Image 2
+    </p>
+  </div>
+</div>
 
 
-METTERE GRAFICI
+
+
+
 
 
 
