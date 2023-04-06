@@ -40,24 +40,24 @@ The table below summarises the results obtained in terms of the evaluation metri
 <table>
 <thead>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</th>
-    <th>nRMSE </th>
-    <th>&nbsp;&nbsp;&nbsp;<br>r&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>MAE (Nm/kg)&nbsp;&nbsp;&nbsp;</th>
+    <th></th>
+    <th>nRMSE</th>
+    <th>r</th>
+    <th>MAE (Nm(kg)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Training&nbsp;&nbsp;&nbsp;set&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>13.45%&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>0.95&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>0.23&nbsp;&nbsp;&nbsp;</td>
+    <td>Training set</td>
+    <td>13.45%</td>
+    <td>0.95</td>
+    <td>0.23</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Test set&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>14.93%&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>0.94&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>0.21&nbsp;&nbsp;&nbsp;</td>
+    <td>Test set</td>
+    <td>14.93%</td>
+    <td>0.94</td>
+    <td>0.21</td>
   </tr>
 </tbody>
 </table>
