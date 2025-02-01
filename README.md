@@ -76,7 +76,19 @@ An analysis aiming at quantifying the incidence of input data on the output (HJM
   <img src="https://user-images.githubusercontent.com/98240588/230432586-84cca4ae-cd60-4d6d-9e0f-fc03bf8d0d0f.png" width="650" height="433">
 </p>
 
+## References
 
+This work has been published in Computer Methods in Biomechanics and Biomedical Engineering. Please cite it as follows: 
+```
+@article{perrone2024machine,
+  title={Machine learning-based prediction of hip joint moment in healthy subjects, patients and post-operative subjects},
+  author={Perrone, Mattia and Mell, Steven P and Martin, John and Nho, Shane J and Malloy, Philip},
+  journal={Computer Methods in Biomechanics and Biomedical Engineering},
+  pages={1--5},
+  year={2024},
+  publisher={Taylor \& Francis}
+}
+```
 
 
 
